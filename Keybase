@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tjhsr on github.
+  * I am tjhsr (https://keybase.io/tjhsr) on keybase.
+  * I have a public key ASCGzI0MwLnWhd7a7gIpaEobngp-gmgMTz8FUKs21dFv6wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086cc8d0cc0b9d685dedaee0229684a1b9e0a7e82680c4f3f0550ab36d5d16feb0a",
+      "host": "keybase.io",
+      "kid": "012086cc8d0cc0b9d685dedaee0229684a1b9e0a7e82680c4f3f0550ab36d5d16feb0a",
+      "uid": "e99310de304f62b2a2c941df6f683d19",
+      "username": "tjhsr"
+    },
+    "merkle_root": {
+      "ctime": 1568367855,
+      "hash": "da51a2a89084206939da8bc2c834b3624bf8796cedb2f8e6ba80da160571eb216c608c5905379bb83d8bf02b8383b21f255e5d044085b2c200599c13725afd4a",
+      "hash_meta": "49ef28d6802c2643a027582d81b99e571f1aa91f7475811e260d86431af57a37",
+      "seqno": 7130468
+    },
+    "service": {
+      "entropy": "n57HQDEYDYEU4IPOM/W1bjqK",
+      "name": "github",
+      "username": "tjhsr"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568367859,
+  "expire_in": 504576000,
+  "prev": "174e699ee2b272884bd25f16e96adf1b6bb007b655cb364a619de9e412155b9f",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASCGzI0MwLnWhd7a7gIpaEobngp-gmgMTz8FUKs21dFv6wo](https://keybase.io/tjhsr), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghsyNDMC51oXe2u4CKWhKG54KfoJoDE8/BVCrNtXRb+sKp3BheWxvYWTESpcCDsQgF05pnuKycohL0l8W6WrfG2uwB7ZVyzZKYZ3p5BIVW5/EIKsHKzWtrgZ2JItgPpfor/jLV4YUx3JSqlff7K3My0hJAgHCo3NpZ8RALvJiFlz9ycqC+PC0E3niUGt7m3/5hulyAF26OQWYOk0etQWQgENrEP4uAUWbe/NOBf5nltsimpMNt3i53kMFAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEb2vmh20fLqzqwo4R0NtwzY6dCuFQFyRMClbikgbtBPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tjhsr
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tjhsr
+```
